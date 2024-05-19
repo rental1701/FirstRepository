@@ -5,5 +5,7 @@ console.log(myArray);
 
 const res = myArray.map((el)=> {return el * 3});
 console.log(res);
+console.log(res);
 console.log("add");
+
 console.log("add");
